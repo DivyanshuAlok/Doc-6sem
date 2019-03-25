@@ -1,0 +1,828 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  25 MAR 2019 05:52
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2018-12-01>
+(D:\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(D:\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(D:\MiKTeX\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(D:\MiKTeX\tex/generic/oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\MiKTeX\tex/generic/ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(D:\MiKTeX\tex/latex/geometry\geometry.cfg))
+(D:\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen111
+\ttl@minus=\dimen112
+\ttl@toksa=\toks16
+\titlewidth=\dimen113
+\titlewidthlast=\dimen114
+\titlewidthfirst=\dimen115
+)
+(D:\MiKTeX\tex/latex/etex-pkg\etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count92
+) (D:\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+(D:\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(D:\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(D:\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(D:\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(D:\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen116
+))
+(D:\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen117
+)
+(D:\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks18
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks19
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks20
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(D:\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(D:\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (D:\MiKTeX\tex/latex/tools\array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen125
+\ar@mcellbox=\box30
+\extrarowheight=\dimen126
+\NC@list=\toks22
+\extratabsurround=\skip48
+\backup@length=\skip49
+\ar@cellbox=\box31
+) (D:\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(D:\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count105
+\c@ALC@line=\count106
+\c@ALC@rem=\count107
+\c@ALC@depth=\count108
+\ALC@tlm=\skip50
+\algorithmicindent=\skip51
+)
+(D:\MiKTeX\tex/latex/algorithm2e\algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count109
+\algocf@hangindent=\skip52
+
+(D:\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count110
+)
+(D:\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (D:\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip53
+\skiplinenumber=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipalgocfslide=\skip60
+\algowidth=\dimen127
+\inoutsize=\dimen128
+\inoutindent=\dimen129
+\interspacetitleruled=\dimen130
+\interspacealgoruled=\dimen131
+\interspacetitleboxruled=\dimen132
+\algocf@ruledwidth=\skip61
+\algocf@inoutbox=\box32
+\algocf@inputbox=\box33
+\AlCapSkip=\skip62
+\AlCapHSkip=\skip63
+\algoskipindent=\skip64
+\algocf@nlbox=\box34
+\algocf@hangingbox=\box35
+\algocf@untilbox=\box36
+\algocf@skipuntil=\skip65
+\algocf@capbox=\box37
+\algocf@lcaptionbox=\skip66
+\algoheightruledefault=\skip67
+\algoheightrule=\skip68
+\algotitleheightruledefault=\skip69
+\algotitleheightrule=\skip70
+\c@algocfline=\count111
+\c@algocfproc=\count112
+\c@algocf=\count113
+\algocf@algoframe=\box38
+\algocf@algobox=\box39
+) (D:\MiKTeX\tex/latex/tools\layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count114
+\cnt@paperwidth=\count115
+\cnt@paperheight=\count116
+\cnt@hoffset=\count117
+\cnt@voffset=\count118
+\cnt@textheight=\count119
+\cnt@textwidth=\count120
+\cnt@topmargin=\count121
+\cnt@oddsidemargin=\count122
+\cnt@evensidemargin=\count123
+\cnt@headheight=\count124
+\cnt@headsep=\count125
+\cnt@marginparsep=\count126
+\cnt@marginparwidth=\count127
+\cnt@marginparpush=\count128
+\cnt@footskip=\count129
+\fheight=\count130
+\ref@top=\count131
+\ref@hoffset=\count132
+\ref@voffset=\count133
+\ref@head=\count134
+\ref@body=\count135
+\ref@foot=\count136
+\ref@margin=\count137
+\ref@marginwidth=\count138
+\ref@marginpar=\count139
+\Interval=\count140
+\ExtraYPos=\count141
+\PositionX=\count142
+\PositionY=\count143
+\ArrowLength=\count144
+) (D:\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (D:\MiKTeX\tex/latex/ntheorem\ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+\theorem@style=\toks23
+\theorem@@style=\toks24
+\theorembodyfont=\toks25
+\theoremnumbering=\toks26
+\theorempreskipamount=\skip71
+\theorempostskipamount=\skip72
+\theoremframepreskipamount=\skip73
+\theoremframepostskipamount=\skip74
+\theoreminframepreskipamount=\skip75
+\theoreminframepostskipamount=\skip76
+\theorem@preskip=\toks27
+\theorem@postskip=\toks28
+\theorem@framepreskip=\toks29
+\theorem@framepostskip=\toks30
+\theorem@inframepreskip=\toks31
+\theorem@inframepostskip=\toks32
+\theoremindent=\dimen133
+\theorem@indent=\dimen134
+\theoremrightindent=\dimen135
+\theorem@rightindent=\dimen136
+\theoremheaderfont=\toks33
+\theoremseparator=\toks34
+\theoremprework=\toks35
+\theorempostwork=\toks36
+\theoremsymbol=\toks37
+\qedsymbol=\toks38
+\theoremkeyword=\toks39
+\qedsymbol=\toks40
+\thm@topsep=\skip77
+\thm@topsepadd=\skip78
+Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
+\c@endNonectr=\count145
+\c@currNonectr=\count146
+\mysavskip=\skip79
+Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
+ line 1175.
+\thm@amstmpdepth=\dimen137
+\tagwidth=\dimen138
+Package ntheorem Info: Standard config file ntheorem.std used on input line 118
+4.
+(D:\MiKTeX\tex/latex/ntheorem\ntheorem.std
+(D:\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\c@currTheoremctr=\count147
+\c@endTheoremctr=\count148
+\c@Theorem=\count149
+\c@currtheoremctr=\count150
+\c@endtheoremctr=\count151
+\c@theorem=\count152
+\c@currSatzctr=\count153
+\c@endSatzctr=\count154
+\c@Satz=\count155
+\c@currsatzctr=\count156
+\c@endsatzctr=\count157
+\c@satz=\count158
+\c@currPropositionctr=\count159
+\c@endPropositionctr=\count160
+\c@Proposition=\count161
+\c@currpropositionctr=\count162
+\c@endpropositionctr=\count163
+\c@proposition=\count164
+\c@currLemmactr=\count165
+\c@endLemmactr=\count166
+\c@Lemma=\count167
+\c@currlemmactr=\count168
+\c@endlemmactr=\count169
+\c@lemma=\count170
+\c@currKorollarctr=\count171
+\c@endKorollarctr=\count172
+\c@Korollar=\count173
+\c@currkorollarctr=\count174
+\c@endkorollarctr=\count175
+\c@korollar=\count176
+\c@currCorollaryctr=\count177
+\c@endCorollaryctr=\count178
+\c@Corollary=\count179
+\c@currcorollaryctr=\count180
+\c@endcorollaryctr=\count181
+\c@corollary=\count182
+\c@currExamplectr=\count183
+\c@endExamplectr=\count184
+\c@Example=\count185
+\c@currexamplectr=\count186
+\c@endexamplectr=\count187
+\c@example=\count188
+\c@currBeispielctr=\count189
+\c@endBeispielctr=\count190
+\c@Beispiel=\count191
+\c@currbeispielctr=\count192
+\c@endbeispielctr=\count193
+\c@beispiel=\count194
+\c@currBemerkungctr=\count195
+\c@endBemerkungctr=\count196
+\c@Bemerkung=\count197
+\c@currbemerkungctr=\count198
+\c@endbemerkungctr=\count199
+Normal \count register pool exhausted, switching to extended pool.
+\c@bemerkung=\count277
+\c@currAnmerkungctr=\count278
+\c@endAnmerkungctr=\count279
+\c@Anmerkung=\count280
+\c@curranmerkungctr=\count281
+\c@endanmerkungctr=\count282
+\c@anmerkung=\count283
+\c@currRemarkctr=\count284
+\c@endRemarkctr=\count285
+\c@Remark=\count286
+\c@currremarkctr=\count287
+\c@endremarkctr=\count288
+\c@remark=\count289
+\c@currDefinitionctr=\count290
+\c@endDefinitionctr=\count291
+\c@Definition=\count292
+\c@currdefinitionctr=\count293
+\c@enddefinitionctr=\count294
+\c@definition=\count295
+\c@currProofctr=\count296
+\c@endProofctr=\count297
+\c@Proof=\count298
+\c@currproofctr=\count299
+\c@endproofctr=\count300
+\c@proof=\count301
+\c@currBeweisctr=\count302
+\c@endBeweisctr=\count303
+\c@Beweis=\count304
+\c@currbeweisctr=\count305
+\c@endbeweisctr=\count306
+\c@beweis=\count307
+))
+(D:\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(D:\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (D:\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(D:\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment')
+(D:\MiKTeX\tex/latex/base\alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+) (D:\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip80
+\f@nch@O@elh=\skip81
+\f@nch@O@erh=\skip82
+\f@nch@O@olh=\skip83
+\f@nch@O@orh=\skip84
+\f@nch@O@elf=\skip85
+\f@nch@O@erf=\skip86
+\f@nch@O@olf=\skip87
+\f@nch@O@orf=\skip88
+) (D:\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks41
+\inpenc@posthook=\toks42
+) (thesis.aux
+
+LaTeX Warning: Label `react-native' multiply defined.
+
+
+LaTeX Warning: Label `bot' multiply defined.
+
+)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
+ (D:\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(57.81621pt, 481.87546pt, 57.81621pt)
+* v-part:(T,H,B)=(50.58878pt, 743.8693pt, 50.58878pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=481.87546pt
+* \textheight=743.8693pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-58.68121pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen141
+\scratchbox=\box40
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen142
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks44
+) (D:\MiKTeX\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\MiKTeX\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\MiKTeX\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\MiKTeX\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(D:\MiKTeX\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(D:\MiKTeX\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\MiKTeX\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\MiKTeX\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(D:\MiKTeX\tex/generic/oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(D:\MiKTeX\tex/generic/oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) (front_pages/titpg.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+<cbit.png, id=1, 67.9338pt x 90.0966pt>
+File: cbit.png Graphic file (type png)
+<use cbit.png>
+Package pdftex.def Info: cbit.png  used on input line 52.
+(pdftex.def)             Requested size: 113.81102pt x 150.9488pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 55.
+
+[1
+
+{C:/Users/Divyanshu Alok/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
+cbit.png>]) (front_pages/cert.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+File: cbit.png Graphic file (type png)
+<use cbit.png>
+Package pdftex.def Info: cbit.png  used on input line 7.
+(pdftex.def)             Requested size: 113.81102pt x 150.9488pt.
+ [1]) (front_pages/ack.tex [2])
+(front_pages/declaration.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+[3]) (front_pages/abst.tex
+Overfull \hbox (14.05608pt too wide) in paragraph at lines 14--24
+\OT1/ptm/m/n/12 This ap-pli-ca-tion will pro-vide in-for-ma-tion of var-i-ous a
+pps us-age in a child's gad-get to the par-ent/guardian.
+ []
+
+[4])
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+ (thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+ (D:\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+(D:\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 7.
+ (D:\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+[5
+
+])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [6] (thesis.lof)
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+ [7
+
+] (chapters/intro.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 16.
+(D:\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+ [1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--37
+
+ []
+
+[2]) (chapters/chap2.tex
+Chapter 2.
+[3
+
+]
+<reactArch.PNG, id=42, 536.0025pt x 445.665pt>
+File: reactArch.PNG Graphic file (type png)
+<use reactArch.PNG>
+Package pdftex.def Info: reactArch.PNG  used on input line 24.
+(pdftex.def)             Requested size: 434.6013pt x 361.34999pt.
+ [4 <./reactArch.PNG>]
+<avd.PNG, id=47, 915.42pt x 411.03563pt>
+File: avd.PNG Graphic file (type png)
+<use avd.PNG>
+Package pdftex.def Info: avd.PNG  used on input line 39.
+(pdftex.def)             Requested size: 498.95688pt x 224.03743pt.
+
+Overfull \hbox (17.08142pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+[5 <./avd.PNG>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+[7]) (chapters/chap3.tex
+Chapter 3.
+[8
+
+]) (chapters/concl.tex
+Chapter 4.
+<flowchart.PNG, id=62, 261.97874pt x 623.32875pt>
+File: flowchart.PNG Graphic file (type png)
+<use flowchart.PNG>
+Package pdftex.def Info: flowchart.PNG  used on input line 5.
+(pdftex.def)             Requested size: 212.62535pt x 505.89pt.
+<UseCase.PNG, id=63, 733.74126pt x 342.27875pt>
+File: UseCase.PNG Graphic file (type png)
+<use UseCase.PNG>
+Package pdftex.def Info: UseCase.PNG  used on input line 13.
+(pdftex.def)             Requested size: 526.75946pt x 245.71754pt.
+
+Overfull \hbox (44.884pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
+
+[9
+
+ <./flowchart.PNG>] [10 <./UseCase.PNG>]
+<Activity.PNG, id=72, 893.3375pt x 543.02875pt>
+File: Activity.PNG Graphic file (type png)
+<use Activity.PNG>
+Package pdftex.def Info: Activity.PNG  used on input line 20.
+(pdftex.def)             Requested size: 535.02518pt x 325.215pt.
+
+Overfull \hbox (53.14972pt too wide) in paragraph at lines 20--21
+ [][] 
+ []
+
+[11 <./Activity.PNG>]
+Chapter 5.
+<flow.PNG, id=78, 643.40375pt x 733.74126pt>
+File: flow.PNG Graphic file (type png)
+<use flow.PNG>
+Package pdftex.def Info: flow.PNG  used on input line 32.
+(pdftex.def)             Requested size: 335.87761pt x 383.03122pt.
+[12
+
+ <./flow.PNG>]
+<Startup.PNG, id=83, 722.7pt x 1284.8pt>
+File: Startup.PNG Graphic file (type png)
+<use Startup.PNG>
+Package pdftex.def Info: Startup.PNG  used on input line 41.
+(pdftex.def)             Requested size: 296.76103pt x 527.57121pt.
+ [13 <./Startup.PNG>]
+<Signup.PNG, id=87, 722.7pt x 1284.8pt>
+File: Signup.PNG Graphic file (type png)
+<use Signup.PNG>
+Package pdftex.def Info: Signup.PNG  used on input line 50.
+(pdftex.def)             Requested size: 296.76103pt x 527.57121pt.
+ [14 <./Signup.PNG>]
+<Login.PNG, id=91, 722.7pt x 1284.8pt>
+File: Login.PNG Graphic file (type png)
+<use Login.PNG>
+Package pdftex.def Info: Login.PNG  used on input line 58.
+(pdftex.def)             Requested size: 296.76103pt x 527.57121pt.
+ [15 <./Login.PNG>]
+<catf.PNG, id=95, 1084.05pt x 963.6pt>
+File: catf.PNG Graphic file (type png)
+<use catf.PNG>
+Package pdftex.def Info: catf.PNG  used on input line 67.
+(pdftex.def)             Requested size: 512.1998pt x 455.30121pt.
+
+Overfull \hbox (30.32434pt too wide) in paragraph at lines 67--68
+ [][] 
+ []
+
+[16 <./catf.PNG>]
+<Batuse.PNG, id=100, 722.7pt x 1284.8pt>
+File: Batuse.PNG Graphic file (type png)
+<use Batuse.PNG>
+Package pdftex.def Info: Batuse.PNG  used on input line 75.
+(pdftex.def)             Requested size: 296.76103pt x 527.57121pt.
+ [17 <./Batuse.PNG>]
+Chapter 6.
+[18
+
+]
+<out.PNG, id=108, 722.7pt x 1284.8pt>
+File: out.PNG Graphic file (type png)
+<use out.PNG>
+Package pdftex.def Info: out.PNG  used on input line 101.
+(pdftex.def)             Requested size: 304.89934pt x 542.025pt.
+ [19 <./out.PNG>]
+Chapter 7.
+[20
+
+]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 123.
+
+ (D:\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+))
+\tf@thm=\write6
+\openout6 = `thesis.thm'.
+
+ [21
+
+] (thesis.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6090 strings out of 492945
+ 83210 string characters out of 3143452
+ 172494 words of memory out of 3000000
+ 9790 multiletter control sequences out of 15000+200000
+ 27089 words of font info for 61 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,43p,929b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><D:/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><D:/MiKTeX/fonts/t
+ype1/urw/times/utmb8a.pfb><D:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on thesis.pdf (29 pages, 911634 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

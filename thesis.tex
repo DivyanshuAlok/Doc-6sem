@@ -1,0 +1,76 @@
+
+\documentclass[10pt,a4paper]{report} 
+%\usepackage{showkeys}
+%\usepackage[left=3.5cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[top=0.70in, bottom=0.70in, left=0.8in,right=0.80in]{geometry}
+
+%\usepackage[compact]{titlesec} % used to adjust space between
+\usepackage{titlesec}                               % chapter title and text                               
+\usepackage{etex}      
+\usepackage{color}                          
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{algorithmic}
+\usepackage{algorithm2e}
+\usepackage{layout}
+\usepackage{url}
+\usepackage{cite}
+\usepackage{color}
+\usepackage[standard,thmmarks,amsmath,hyperref]{ntheorem}
+%\usepackage[implicit=false]{hyperref}
+%\usepackage{etex}
+\usepackage{graphicx}
+\usepackage[nottoc]{tocbibind}%
+%\usepackage{pgf}
+\usepackage{times}
+\usepackage{comment}
+%\usepackage{booktabs}
+%\usepackage{longtable}
+\usepackage{alltt}
+ \usepackage{fancyhdr}
+ 
+ \usepackage[utf8]{inputenc}
+ %\usepackage{mathptmx}
+%\renewtheorem{definition}{Definition}[chapter]
+
+
+\titleformat{\chapter}{\normalfont\huge\centering}{\Huge \bf  \thechapter.}{14pt}{\Huge \bf } %This is here, so that at each chapter start, I only get "chapter number + chapter name"
+
+\begin{document}
+\onehalfspacing
+
+
+
+%\begin{comment}
+\input{front_pages/titpg}
+\pagenumbering{roman}
+%\layout
+ \allowdisplaybreaks
+\input{front_pages/cert}
+\input{front_pages/ack}
+\input{front_pages/declaration}
+\input{front_pages/abst}
+
+
+
+
+ \tableofcontents
+ \listoffigures
+
+\clearpage
+\onehalfspacing      % one and half line spacing 
+%\doublespacing
+\pagenumbering{arabic}
+
+\input{chapters/intro}
+%\end{comment}
+\input{chapters/chap2}
+\input{chapters/chap3}
+\input{chapters/concl}
+
+
+
+\end{document}
